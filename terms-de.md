@@ -38,13 +38,13 @@ Der Vertrag über die Nutzung von Monitornator kommt mit Klick auf den Button �
 
 6.1 Um vom vollen Funktionsumfang von Monitornator Gebrauch zu machen, muss der Monitornator Agent auf den zu überwachenden Servern installiert werden.
 
-6.2 Der Code des Monitornator Agent ist quelloffen und jederzeit unter <a href="https://github.com/monitornator">https://github.com/monitornator</a> einsehbar.
+6.2 Der Code des Monitornator Agent ist quelloffen und jederzeit unter <a href="https://github.com/monitornator" target="_blank">https://github.com/monitornator</a> einsehbar.
 
 6.3 Im oben genannten Repository findet sich zudem eine Dokumentation mit einer Auflistung der erhobenen und gespeicherten Daten des Agents sowie eine Übersicht über Software-Abhängigkeiten und unterstützte Betriebssysteme.
 
-## 7. Zahlungsmethoden<br>
+## 7. Zahlungsmethoden
 
-Die Bezahlung erfolgt per Kreditkarte. Dafür der Anbieter mit dem Zahlungsanbieter Stripe (<a href="http://www.stripe.com">www.stripe.com</a>) zusammen. Für die Bezahlung per Kreditkarte entstehen keine zusätzlichen Kosten.
+Die Bezahlung erfolgt per Kreditkarte. Dafür der Anbieter mit dem Zahlungsanbieter Stripe (<a href="http://www.stripe.com" target="_blank">www.stripe.com</a>) zusammen. Für die Bezahlung per Kreditkarte entstehen keine zusätzlichen Kosten.
 
 ## 8. Fälligkeit der Zahlungen
 
@@ -86,7 +86,7 @@ Wird ein Vertrag nicht gemäß dieser AGB gekündigt, verlängert sich die Laufz
 
 ## 13. Widerruf
 
-13.1 Da es sich bei Monitornator um ein “digitales Produkt” handelt, ist gemäß <a href="https://www.gesetze-im-internet.de/bgb/__356.html">§ 356 Abs. 5 BGB</a> der Widerruf für Verbraucher ausgeschlossen.
+13.1 Da es sich bei Monitornator um ein “digitales Produkt” handelt, ist gemäß <a href="https://www.gesetze-im-internet.de/bgb/__356.html" target="_blank">§ 356 Abs. 5 BGB</a> der Widerruf für Verbraucher ausgeschlossen.
 
 13.2 Darauf wird der Nutzer im Bestellprozess entsprechend hingewiesen und muss diese Belehrung aktiv bestätigen.
 
@@ -104,7 +104,7 @@ Wird ein Vertrag nicht gemäß dieser AGB gekündigt, verlängert sich die Laufz
 
 15.1 Die Europäische Kommission hat eine Plattform (im Fol­genden „OS-Plattform“) eingerichtet, die eine unabhängige, unparteiische, transparente, effektive, schnelle und faire außerge­richtliche Online-Beilegung von Streitigkeiten zwischen Verbrau­chern und Unternehmern ermöglichen soll. Wir sind von Gesetzes wegen gehalten, auf unserer Website einen Link zur OS-Plattform zu veröffentlichen sowie unsere E-Mail-Adresse anzugeben.
 
-15.2 Der Link zur OS-Plattform lautet <a href="http://ec.europa.eu/consumers/odr/">http://ec.europa.eu/consumers/odr/</a>.
+15.2 Der Link zur OS-Plattform lautet <a href="http://ec.europa.eu/consumers/odr/" target="_blank">http://ec.europa.eu/consumers/odr/</a>.
 
 15.3 Unsere E-Mail-Adresse lautet hi@monitornator.io.
 

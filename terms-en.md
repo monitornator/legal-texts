@@ -32,19 +32,19 @@ The contract for the use of Monitornator becomes effective with a click on the b
 
 5.1 The provider stores data exclusively on servers in data centers in Germany.
 
-5.2 The provider will not pass on any data to third parties, either to purchase or free of charge.<br>
+5.2 The provider will not pass on any data to third parties, either to purchase or free of charge.
 
 ## 6. Monitornator Agent
 
 6.1 To take advantage of the full capabilities of Monitornator, the Monitornator Agent must be installed on the servers to be monitored.
 
-6.2 The code of the Monitornator Agent is open-source and can be viewed at any time at <a href="https://github.com/monitornator">https://github.com/monitornator</a>.
+6.2 The code of the Monitornator Agent is open-source and can be viewed at any time at <a href="https://github.com/monitornator" target="_blank">https://github.com/monitornator</a>.
 
 6.3 The above repository also includes the agent’s documentation with an overview of allcollected and saved data as well as an overview of software dependencies and supported operating systems.
 
-## 7. Payment methods<br>
+## 7. Payment methods
 
-Payment is by credit card. For this the provider uses Stripe (<a href="http://www.stripe.com">www.stripe.com</a>) as payment provider. There are no additional costs for credit card payments.
+Payment is by credit card. For this the provider uses Stripe (<a href="http://www.stripe.com" target="_blank">www.stripe.com</a>) as payment provider. There are no additional costs for credit card payments.
 
 ## 8. Due date of payments
 
@@ -104,7 +104,7 @@ If a contract is not terminated in accordance with these terms and conditions, t
 
 15.1 The European Commission has set up a Platform ("the ODR platform") to facilitate independent, impartial, transparent, effective, prompt, and fair out-of-court online dispute resolutions between consumers and entrepreneurs. We are required by law to post a link to the ODR platform on our website and to provide our e-mail address.
 
-15.2 The link to the ODR platform is <a href="http://ec.europa.eu/consumers/odr/">http://ec.europa.eu/consumers/odr/</a>.
+15.2 The link to the ODR platform is <a href="http://ec.europa.eu/consumers/odr/" target="_blank">http://ec.europa.eu/consumers/odr/</a>.
 
 15.3 Our e-mail address is hi@monitornator.io.
 
