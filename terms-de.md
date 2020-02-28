@@ -72,17 +72,13 @@ Die Bezahlung erfolgt per Kreditkarte. Dafür der Anbieter mit dem Zahlungsanbie
 
 Wird ein Vertrag nicht gemäß dieser AGB gekündigt, verlängert sich die Laufzeit automatisch um die ursprüngliche Länge.
 
-## 12. Kostenloser Testzeitraum
+## 12. Kostenloser Tarif
 
-12.1 Jedem Nutzer steht automatisch ein kostenloser Testzeitraum von 7 Tagen zur Verfügung. Während dieser Zeit kann der Vertrag jederzeit ohne Zahlungsverpflichtungen gekündigt werden.
+12.1 Jedem Nutzer steht direkt nach der Registrierung ein kostenloser Tarif mit begrenztem Funktionsumfang zur Verfügung, dessen Nutzungsdauer bis auf Weiteres unbegrenzt ist.
 
-12.2 Nach Ende des Testzeitraums besteht keine Verpflichtung zum Kauf.
+12.2 Der Funktionsumfang des kostenlosen Tarifs ist der auf der Website angegebenen Preisliste inklusive Funktionsbeschreibung zu entnehmen.
 
-12.3 Der Nutzer hat nach Ablauf der Testphase 14 Tage Zeit, um ein kostenpflichtiges Abonnement abzuschließen. Während dieser Zeit stehen die Funktionen von Monitornator nicht zur Verfügung.
-
-12.4 Wird innerhalb von 14 Tagen kein kostenpflichtiges Abonnement abgeschlossen, behält sich der Anbieter vor ohne weitere Ankündigung das Konto des Kunden und alle damit verbundenen Daten unwiderruflich zu löschen.
-
-12.5 Der Genaue Zeitpunkt des Endes der Testphase ist unter “Konto und Einstellungen” einzusehen.<br>
+12.3 Im Kostenlosen Tarif enthaltene Funktionen sind nicht garantiert. Wir behalten uns vor den kostenlosen Tarif jederzeit zu ändern oder ganz einzustellen. Bestehende Nutzer werden in diesem Fall spätestens 14 Tage vor etweigen Änderungen per E-Mail informiert.
 
 ## 13. Widerruf
 

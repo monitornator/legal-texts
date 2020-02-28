@@ -72,17 +72,13 @@ Payment is by credit card. For this the provider uses Stripe (<a href="http://ww
 
 If a contract is not terminated in accordance with these terms and conditions, the term is automatically extended by the original length.
 
-## 12. Free trial period
+## 12. Free plan
 
-12.1 Each user will automatically get a free trial period of 7 days. During this time, the contract can be terminated at any time without payment obligations.
+12.1 Immediately after registration, every user has to a free plan with a limited range of functionality, the duration of which is unlimited until further notice.
 
-12.2 After the end of the trial period, there is no obligation to purchase.
+12.2 The range of functionality of the free plan including the functional description can be found in the price list on the website.
 
-12.3 At the end of the trial period, the user has 14 days to complete a paid subscription. During this time the functions of Monitor will not be available.
-
-12.4 If no paid subscription is concluded within 14 days, the provider reserves the right to irrevocably delete the customer's account and all associated data without further notice.
-
-12.5 The exact time of the end of the test phase can be seen under "Account and Settings".<br>
+12.3 Features included in the free plan are not guaranteed. We reserve the right to change or cancel the free plan at any time. In this case, existing users will be informed by email at least 14 days before any changes.
 
 ## 13. Revocation
 
