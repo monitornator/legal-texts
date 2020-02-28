@@ -4,7 +4,7 @@
 
 ## 1. Geltungsbereich und Anbieter
 
-1.1 Diese allgemeinen Geschäftsbedingungen (im folgenden AGB genannt) sind gültig für die Nutzung von Monitornator (www.monitornator.io und dazugehörige Subdomains).
+1.1 Diese allgemeinen Geschäftsbedingungen (im folgenden AGB genannt) sind gültig für die Nutzung von Monitornator (<a href="https://monitornator.io" target="_blank">www.monitornator.io</a> und dazugehörige Subdomains).
 
 1.2 Monitornator ist ein Produkt der prototype.berlin GmbH mit Sitz in der Oranienburger Straße 26 in 10117 Berlin (nachfolgend Anbieter genannt).
 

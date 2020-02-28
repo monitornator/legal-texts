@@ -4,7 +4,7 @@
 
 ## 1. Scope and provider
 
-1.1 These General Terms and Conditions (hereinafter also referred to as GTC) are valid for the use of Monitornator (www.monitornator.io and related subdomains).
+1.1 These General Terms and Conditions (hereinafter also referred to as GTC) are valid for the use of Monitornator (<a href="https://monitornator.io" target="_blank">www.monitornator.io</a> and related subdomains).
 
 1.2 Monitornator is a product of prototype.berlin GmbH with its registered office at Oranienburger Straße 26 in 10117 Berlin (hereinafter referred to as provider).
 
