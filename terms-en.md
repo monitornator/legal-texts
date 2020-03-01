@@ -1,10 +1,10 @@
 # Terms and Conditions
 
-*Effective: 17.12.2019*
+*Effective: 01.03.2020*
 
 ## 1. Scope and provider
 
-1.1 These General Terms and Conditions (hereinafter also referred to as GTC) are valid for the use of Monitornator (www.monitornator.io and related subdomains).
+1.1 These General Terms and Conditions (hereinafter also referred to as GTC) are valid for the use of Monitornator (<a href="https://monitornator.io" target="_blank">www.monitornator.io</a> and related subdomains).
 
 1.2 Monitornator is a product of prototype.berlin GmbH with its registered office at Oranienburger Straße 26 in 10117 Berlin (hereinafter referred to as provider).
 
@@ -32,19 +32,19 @@ The contract for the use of Monitornator becomes effective with a click on the b
 
 5.1 The provider stores data exclusively on servers in data centers in Germany.
 
-5.2 The provider will not pass on any data to third parties, either to purchase or free of charge.<br>
+5.2 The provider will not pass on any data to third parties, either to purchase or free of charge.
 
 ## 6. Monitornator Agent
 
 6.1 To take advantage of the full capabilities of Monitornator, the Monitornator Agent must be installed on the servers to be monitored.
 
-6.2 The code of the Monitornator Agent is open-source and can be viewed at any time at <a href="https://github.com/monitornator">https://github.com/monitornator</a>.
+6.2 The code of the Monitornator Agent is open-source and can be viewed at any time at <a href="https://github.com/monitornator" target="_blank">https://github.com/monitornator</a>.
 
 6.3 The above repository also includes the agent’s documentation with an overview of allcollected and saved data as well as an overview of software dependencies and supported operating systems.
 
-## 7. Payment methods<br>
+## 7. Payment methods
 
-Payment is by credit card. For this the provider uses Stripe (<a href="http://www.stripe.com">www.stripe.com</a>) as payment provider. There are no additional costs for credit card payments.
+Payment is by credit card. For this the provider uses Stripe (<a href="http://www.stripe.com" target="_blank">www.stripe.com</a>) as payment provider. There are no additional costs for credit card payments.
 
 ## 8. Due date of payments
 
@@ -72,17 +72,13 @@ Payment is by credit card. For this the provider uses Stripe (<a href="http://ww
 
 If a contract is not terminated in accordance with these terms and conditions, the term is automatically extended by the original length.
 
-## 12. Free trial period
+## 12. Free plan
 
-12.1 Each user will automatically get a free trial period of 7 days. During this time, the contract can be terminated at any time without payment obligations.
+12.1 Immediately after registration, every user has to a free plan with a limited range of functionality, the duration of which is unlimited until further notice.
 
-12.2 After the end of the trial period, there is no obligation to purchase.
+12.2 The range of functionality of the free plan including the functional description can be found in the price list on the website.
 
-12.3 At the end of the trial period, the user has 14 days to complete a paid subscription. During this time the functions of Monitor will not be available.
-
-12.4 If no paid subscription is concluded within 14 days, the provider reserves the right to irrevocably delete the customer's account and all associated data without further notice.
-
-12.5 The exact time of the end of the test phase can be seen under "Account and Settings".<br>
+12.3 Features included in the free plan are not guaranteed. We reserve the right to change or cancel the free plan at any time. In this case, existing users will be informed by email at least 14 days before any changes.
 
 ## 13. Revocation
 
@@ -104,7 +100,7 @@ If a contract is not terminated in accordance with these terms and conditions, t
 
 15.1 The European Commission has set up a Platform ("the ODR platform") to facilitate independent, impartial, transparent, effective, prompt, and fair out-of-court online dispute resolutions between consumers and entrepreneurs. We are required by law to post a link to the ODR platform on our website and to provide our e-mail address.
 
-15.2 The link to the ODR platform is <a href="http://ec.europa.eu/consumers/odr/">http://ec.europa.eu/consumers/odr/</a>.
+15.2 The link to the ODR platform is <a href="http://ec.europa.eu/consumers/odr/" target="_blank">http://ec.europa.eu/consumers/odr/</a>.
 
 15.3 Our e-mail address is hi@monitornator.io.
 

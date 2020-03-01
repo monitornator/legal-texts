@@ -1,10 +1,10 @@
 # Allgemeine Geschäftsbedingungen
 
-*Stand: 17.12.2019*
+*Stand: 01.03.2020*
 
 ## 1. Geltungsbereich und Anbieter
 
-1.1 Diese allgemeinen Geschäftsbedingungen (im folgenden AGB genannt) sind gültig für die Nutzung von Monitornator (www.monitornator.io und dazugehörige Subdomains).
+1.1 Diese allgemeinen Geschäftsbedingungen (im folgenden AGB genannt) sind gültig für die Nutzung von Monitornator (<a href="https://monitornator.io" target="_blank">www.monitornator.io</a> und dazugehörige Subdomains).
 
 1.2 Monitornator ist ein Produkt der prototype.berlin GmbH mit Sitz in der Oranienburger Straße 26 in 10117 Berlin (nachfolgend Anbieter genannt).
 
@@ -38,13 +38,13 @@ Der Vertrag über die Nutzung von Monitornator kommt mit Klick auf den Button �
 
 6.1 Um vom vollen Funktionsumfang von Monitornator Gebrauch zu machen, muss der Monitornator Agent auf den zu überwachenden Servern installiert werden.
 
-6.2 Der Code des Monitornator Agent ist quelloffen und jederzeit unter <a href="https://github.com/monitornator">https://github.com/monitornator</a> einsehbar.
+6.2 Der Code des Monitornator Agent ist quelloffen und jederzeit unter <a href="https://github.com/monitornator" target="_blank">https://github.com/monitornator</a> einsehbar.
 
 6.3 Im oben genannten Repository findet sich zudem eine Dokumentation mit einer Auflistung der erhobenen und gespeicherten Daten des Agents sowie eine Übersicht über Software-Abhängigkeiten und unterstützte Betriebssysteme.
 
-## 7. Zahlungsmethoden<br>
+## 7. Zahlungsmethoden
 
-Die Bezahlung erfolgt per Kreditkarte. Dafür der Anbieter mit dem Zahlungsanbieter Stripe (<a href="http://www.stripe.com">www.stripe.com</a>) zusammen. Für die Bezahlung per Kreditkarte entstehen keine zusätzlichen Kosten.
+Die Bezahlung erfolgt per Kreditkarte. Dafür der Anbieter mit dem Zahlungsanbieter Stripe (<a href="http://www.stripe.com" target="_blank">www.stripe.com</a>) zusammen. Für die Bezahlung per Kreditkarte entstehen keine zusätzlichen Kosten.
 
 ## 8. Fälligkeit der Zahlungen
 
@@ -72,21 +72,17 @@ Die Bezahlung erfolgt per Kreditkarte. Dafür der Anbieter mit dem Zahlungsanbie
 
 Wird ein Vertrag nicht gemäß dieser AGB gekündigt, verlängert sich die Laufzeit automatisch um die ursprüngliche Länge.
 
-## 12. Kostenloser Testzeitraum
+## 12. Kostenloser Tarif
 
-12.1 Jedem Nutzer steht automatisch ein kostenloser Testzeitraum von 7 Tagen zur Verfügung. Während dieser Zeit kann der Vertrag jederzeit ohne Zahlungsverpflichtungen gekündigt werden.
+12.1 Jedem Nutzer steht direkt nach der Registrierung ein kostenloser Tarif mit begrenztem Funktionsumfang zur Verfügung, dessen Nutzungsdauer bis auf Weiteres unbegrenzt ist.
 
-12.2 Nach Ende des Testzeitraums besteht keine Verpflichtung zum Kauf.
+12.2 Der Funktionsumfang des kostenlosen Tarifs ist der auf der Website angegebenen Preisliste inklusive Funktionsbeschreibung zu entnehmen.
 
-12.3 Der Nutzer hat nach Ablauf der Testphase 14 Tage Zeit, um ein kostenpflichtiges Abonnement abzuschließen. Während dieser Zeit stehen die Funktionen von Monitornator nicht zur Verfügung.
-
-12.4 Wird innerhalb von 14 Tagen kein kostenpflichtiges Abonnement abgeschlossen, behält sich der Anbieter vor ohne weitere Ankündigung das Konto des Kunden und alle damit verbundenen Daten unwiderruflich zu löschen.
-
-12.5 Der Genaue Zeitpunkt des Endes der Testphase ist unter “Konto und Einstellungen” einzusehen.<br>
+12.3 Im Kostenlosen Tarif enthaltene Funktionen sind nicht garantiert. Wir behalten uns vor den kostenlosen Tarif jederzeit zu ändern oder ganz einzustellen. Bestehende Nutzer werden in diesem Fall spätestens 14 Tage vor etweigen Änderungen per E-Mail informiert.
 
 ## 13. Widerruf
 
-13.1 Da es sich bei Monitornator um ein “digitales Produkt” handelt, ist gemäß <a href="https://www.gesetze-im-internet.de/bgb/__356.html">§ 356 Abs. 5 BGB</a> der Widerruf für Verbraucher ausgeschlossen.
+13.1 Da es sich bei Monitornator um ein “digitales Produkt” handelt, ist gemäß <a href="https://www.gesetze-im-internet.de/bgb/__356.html" target="_blank">§ 356 Abs. 5 BGB</a> der Widerruf für Verbraucher ausgeschlossen.
 
 13.2 Darauf wird der Nutzer im Bestellprozess entsprechend hingewiesen und muss diese Belehrung aktiv bestätigen.
 
@@ -104,7 +100,7 @@ Wird ein Vertrag nicht gemäß dieser AGB gekündigt, verlängert sich die Laufz
 
 15.1 Die Europäische Kommission hat eine Plattform (im Fol­genden „OS-Plattform“) eingerichtet, die eine unabhängige, unparteiische, transparente, effektive, schnelle und faire außerge­richtliche Online-Beilegung von Streitigkeiten zwischen Verbrau­chern und Unternehmern ermöglichen soll. Wir sind von Gesetzes wegen gehalten, auf unserer Website einen Link zur OS-Plattform zu veröffentlichen sowie unsere E-Mail-Adresse anzugeben.
 
-15.2 Der Link zur OS-Plattform lautet <a href="http://ec.europa.eu/consumers/odr/">http://ec.europa.eu/consumers/odr/</a>.
+15.2 Der Link zur OS-Plattform lautet <a href="http://ec.europa.eu/consumers/odr/" target="_blank">http://ec.europa.eu/consumers/odr/</a>.
 
 15.3 Unsere E-Mail-Adresse lautet hi@monitornator.io.
 
