@@ -1,6 +1,6 @@
 # Allgemeine Geschäftsbedingungen
 
-*Stand: 17.12.2019*
+*Stand: 01.03.2020*
 
 ## 1. Geltungsbereich und Anbieter
 

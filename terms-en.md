@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-*Effective: 17.12.2019*
+*Effective: 01.03.2020*
 
 ## 1. Scope and provider
 
