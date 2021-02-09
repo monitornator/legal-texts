@@ -1,12 +1,12 @@
 # Allgemeine Geschäftsbedingungen
 
-*Stand: 01.03.2020*
+*Stand: 08.02.2021*
 
 ## 1. Geltungsbereich und Anbieter
 
 1.1 Diese allgemeinen Geschäftsbedingungen (im folgenden AGB genannt) sind gültig für die Nutzung von Monitornator (<a href="https://monitornator.io" target="_blank">www.monitornator.io</a> und dazugehörige Subdomains).
 
-1.2 Monitornator ist ein Produkt der prototype.berlin GmbH mit Sitz in der Oranienburger Straße 26 in 10117 Berlin (nachfolgend Anbieter genannt).
+1.2 Monitornator ist ein Produkt von Manuel Heidrich mit Sitz in der Watstraße 27 in 14770 Brandenburg an der Havel (nachfolgend Anbieter genannt).
 
 1.3 Diese AGB gelten gleichermaßen für Privatpersonen (Verbraucher) und Geschäftskunden.
 
